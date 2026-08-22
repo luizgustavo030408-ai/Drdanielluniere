@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Evita a indexação de URLs duplicadas com parâmetros
+Disallow: /*?*
+
+Sitemap: https://www.drdanielluniere.com.br/sitemap.xml
